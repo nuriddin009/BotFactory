@@ -1,0 +1,13 @@
+telegram-bot:
+    username: Nuriddinrobot
+    token: 6604458126:AAF23aL8zJ8eaWCTtWwdgj5HWIfMEy5Csys
+
+
+
+
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: root123
